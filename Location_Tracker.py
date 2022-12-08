@@ -1,5 +1,4 @@
 import phonenumbers
-import opencage
 import folium
 import pyfiglet
 
