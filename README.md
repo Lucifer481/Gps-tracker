@@ -1,2 +1,6 @@
 # Gps-tracker
-Its help to track any number with live location
+
+sudo apt install folium
+ls
+cd Gps-Tracker
+python3 Location_Tracker.py
